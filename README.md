@@ -189,6 +189,6 @@ Stop any other process using port 4000, or change `PORT` in `.env` and restart t
 
 **Structured Backend API — ICE Task 2**
 
-**[Your Full Name] | [Your Student Number]**
+**Oarabile Marwane | ST10436124**
 
 </div>
