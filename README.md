@@ -1,6 +1,6 @@
 <div align="center">
 
-# SECUREAPI — BOOKS API
+# Updated SECURE MERN API (BOOKS API)
 
 ### Structured Backend API with Express
 
