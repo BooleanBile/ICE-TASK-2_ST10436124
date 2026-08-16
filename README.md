@@ -185,10 +185,5 @@ Stop any other process using port 4000, or change `PORT` in `.env` and restart t
 
 <div align="center">
 
-### SECUREAPI
-
-**Structured Backend API — ICE Task 2**
-
-**Oarabile Marwane | ST10436124**
 
 </div>
